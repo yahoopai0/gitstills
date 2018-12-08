@@ -1,0 +1,5 @@
+clone from github.com
+file:gitstills
+branch dev
+main branch :master
+
