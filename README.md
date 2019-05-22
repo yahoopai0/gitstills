@@ -1,3 +1,4 @@
+edit in git_pull_one local
 # gitstills
 issue-101 debuging in master branch.
 test no fast forward in merge
